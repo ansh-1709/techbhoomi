@@ -1,0 +1,8 @@
+.expertiseCard {
+    border: 1px solid #eee;
+    background: #fff;
+    padding: 60px 35px 64px;
+    position: relative;
+    transition: all .3s cubic-bezier(.645,.045,.355,1);
+    z-index: 2;
+}
