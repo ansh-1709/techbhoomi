@@ -1,0 +1,24 @@
+.testimonial-client {
+    display: flex;
+    align-items: center;
+}
+
+.client-info {
+    flex-grow: 1;
+    margin-left: 20px;
+}
+
+.client-name {
+    color: #222;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.388;
+    margin-bottom: 6px;
+}
+
+.client-role {
+    color: #333;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.58;
+}
