@@ -22,3 +22,10 @@
     font-weight: 500;
     line-height: 1.58;
 }
+
+.client-img {
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    flex-shrink: 0;
+}

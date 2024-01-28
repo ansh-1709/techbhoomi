@@ -5,7 +5,7 @@ export default function TestimonialCard({ text, image, name, role }) {
         <div>
             <p>{text}</p>
             <div className="testimonial-client">
-                <img src={image} alt="placeholder" />
+                <img className="client-img" src={image} alt="placeholder" />
                 <div className="client-info">
                     <h6 className="client-name">{name}</h6>
                     <span className="client-role">{role}</span>
