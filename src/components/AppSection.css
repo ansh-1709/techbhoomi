@@ -1,3 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
 .section-heading {
     color: #0038e3;
     font-family: Poppins,sans-serif;
