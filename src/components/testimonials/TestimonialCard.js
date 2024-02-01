@@ -2,7 +2,7 @@ import "./TestimonialCard.css"
 
 export default function TestimonialCard({ text, image, name, role }) {
     return (
-        <div>
+        <div className="testimonial-card">
             <p>{text}</p>
             <div className="testimonial-client">
                 <img className="client-img" src={image} alt="placeholder" />

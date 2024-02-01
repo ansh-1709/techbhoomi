@@ -6,6 +6,7 @@
 .client-info {
     flex-grow: 1;
     margin-left: 20px;
+    padding-top: 20px;
 }
 
 .client-name {
@@ -28,4 +29,11 @@
     height: 60px;
     width: 60px;
     flex-shrink: 0;
+}
+
+.testimonial-card {
+    border: 1px solid lightgrey;
+    background: #fff;
+    padding: 44px 40px;
+    transition: all .3s cubic-bezier(.645, .045, .355, 1);
 }
