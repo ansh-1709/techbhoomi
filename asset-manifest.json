@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/techbhoomi/static/css/main.0bc9add6.css",
+    "main.js": "/techbhoomi/static/js/main.49e2ac90.js",
+    "static/media/hero.jpg": "/techbhoomi/static/media/hero.30699ddfb285ea7e0771.jpg",
+    "static/media/p1.jpg": "/techbhoomi/static/media/p1.7b4bf73974c1fbf0befe.jpg",
+    "static/media/p3.jpg": "/techbhoomi/static/media/p3.0544fd6750e7a8045bf6.jpg",
+    "static/media/p4.jpg": "/techbhoomi/static/media/p4.9895217345b64512cc20.jpg",
+    "static/media/p2.jpg": "/techbhoomi/static/media/p2.80b4b38a51067bffda83.jpg",
+    "index.html": "/techbhoomi/index.html",
+    "main.0bc9add6.css.map": "/techbhoomi/static/css/main.0bc9add6.css.map",
+    "main.49e2ac90.js.map": "/techbhoomi/static/js/main.49e2ac90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bc9add6.css",
+    "static/js/main.49e2ac90.js"
+  ]
+}
